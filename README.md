@@ -65,7 +65,7 @@ EzHunt simplifies the recruitment workflow by automating repetitive tasks such a
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/ezhunt.git
+   git clone https://github.com/yourusername/EzHunt_Submission
    cd ezhunt
    ```
 
